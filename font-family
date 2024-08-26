@@ -1,0 +1,11 @@
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+h1 {
+    color: #FF6347; /* Cor do texto */
+  }
+  
+  body {
+    background-color: #E6E6FA; /* Cor de fundo */
+  }
